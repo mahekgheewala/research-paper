@@ -20,3 +20,6 @@ A full-stack application that allows users to search arXiv research papers, sele
 
 ```bash
 # Navigate to backend directory
+=======
+# research-paper
+>>>>>>> 972f077aabf2acfec6fc524bc9f73b0b5de4ff14
