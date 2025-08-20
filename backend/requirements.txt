@@ -15,9 +15,6 @@ faiss-cpu
 sentence-transformers
 lxml
 uuid  
-numpy
-pandas
-scikit-learn
 torch
 transformers
-streamlit
+
