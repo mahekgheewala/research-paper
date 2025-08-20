@@ -17,4 +17,7 @@ lxml
 uuid  
 torch
 transformers
+gunicorn
+
+
 
