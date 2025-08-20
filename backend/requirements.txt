@@ -5,7 +5,6 @@ requests
 google-generativeai
 selenium
 beautifulsoup4
-PyMuPDF
 pdfplumber
 pytesseract
 Pillow
@@ -14,10 +13,8 @@ langchain_community
 faiss-cpu
 sentence-transformers
 lxml
-uuid
 torch
 transformers
 gunicorn
-
-
+pypdf2
 

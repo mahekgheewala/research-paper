@@ -1,13 +1,14 @@
 from flask import Flask, request, jsonify, session
+from flask_cors import CORS
 import os
 import requests
-import fitz  # PyMuPDF
 import pdfplumber
 import pytesseract
 from PIL import Image
 import io
 import re
 from typing import List, Dict, Tuple, Optional
+from PyPDF2 import PdfReader
 import logging
 from datetime import datetime
 import time
