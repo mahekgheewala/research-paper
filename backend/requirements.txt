@@ -1,0 +1,17 @@
+Flask
+Flask-CORS
+python-dotenv
+requests
+google-generativeai
+selenium
+beautifulsoup4
+PyMuPDF
+pdfplumber
+pytesseract
+Pillow
+langchain
+langchain_community
+faiss-cpu
+sentence-transformers
+lxml
+uuid    

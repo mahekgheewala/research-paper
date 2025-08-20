@@ -1,0 +1,588 @@
+/* Custom CSS styles for the AI Research Q&A application */
+
+/* Import Google Fonts for better typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Global styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main container styling */
+.main-container {
+  flex: 1;
+  padding: 2rem 0;
+  max-width: 1200px;
+}
+
+/* Welcome section styling */
+.welcome-section {
+  color: white;
+  margin-bottom: 3rem;
+  padding: 2rem 0;
+}
+
+.welcome-section .display-4 {
+  font-weight: 700;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.welcome-section .lead {
+  font-size: 1.25rem;
+  opacity: 0.9;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation bar customization */
+.custom-navbar {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-bottom: 3px solid #667eea;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.nav-link-custom {
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-link-custom.active {
+  color: #667eea !important;
+  font-weight: 600;
+}
+
+.clear-btn {
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.clear-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.5);
+  transform: translateY(-1px);
+}
+
+/* Question form card styling */
+.question-form-card {
+  border: none;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.question-form-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Question textarea styling */
+.question-textarea {
+  border: 2px solid #e9ecef;
+  border-radius: 10px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.question-textarea:focus {
+  border-color: #667eea;
+  box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+  background: white;
+}
+
+.question-input-group {
+  position: relative;
+}
+
+/* Submit button styling */
+.submit-btn {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.submit-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+  background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+}
+
+.submit-btn:disabled {
+  opacity: 0.7;
+  transform: none;
+}
+
+/* Answer display card styling */
+.answer-display-card {
+  border: none;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  animation: fadeInUp 0.5s ease-out;
+}
+
+.answer-display-card .card-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 15px 15px 0 0;
+  font-weight: 600;
+  padding: 1rem 1.5rem;
+}
+
+/* Status badge styling */
+.status-badge {
+  padding: 0.5rem 0.75rem;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+/* Question context styling */
+.question-context {
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  background: rgba(248, 249, 250, 0.8);
+  padding: 1rem;
+}
+
+/* Loading container styling */
+.loading-container .spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+
+.loading-text h5 {
+  color: #495057;
+  font-weight: 600;
+}
+
+/* Answer content styling */
+.answer-content {
+  line-height: 1.7;
+}
+
+.answer-text {
+  font-size: 1.05rem;
+  color: #333;
+  background: rgba(255, 255, 255, 0.6);
+  padding: 1.5rem;
+  border-radius: 10px;
+  border-left: 4px solid #667eea;
+}
+
+.answer-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* Copy button styling */
+.copy-btn {
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  padding: 0.375rem 0.75rem;
+}
+
+.copy-btn:hover {
+  background-color: #e9ecef;
+  border-color: #adb5bd;
+  transform: translateY(-1px);
+}
+
+/* Answer footer styling */
+.answer-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1) !important;
+  background: rgba(248, 249, 250, 0.5);
+  margin: 1.5rem -1.5rem -1.5rem;
+  padding: 1rem 1.5rem !important;
+  border-radius: 0 0 15px 15px;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .main-container {
+    padding: 1rem 0;
+  }
+  
+  .welcome-section {
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+  }
+  
+  .welcome-section .display-4 {
+    font-size: 2rem;
+  }
+  
+  .question-form-card,
+  .answer-display-card,
+  .about-card {
+    margin: 0 0.5rem;
+  }
+  
+  .submit-btn {
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+  
+  .answer-footer .row > div {
+    text-align: center !important;
+  }
+
+  .about-header {
+    padding: 1.5rem;
+  }
+  
+  .about-title {
+    font-size: 1.5rem;
+  }
+  
+  .about-content {
+    padding: 1.5rem;
+  }
+  
+  .features-grid,
+  .tech-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .feature-item,
+  .tech-item {
+    padding: 1rem;
+  }
+  
+  .impact-section {
+    padding: 1.5rem;
+    margin: 1.5rem 0 1rem;
+  }
+}
+
+/* Dark mode support (optional) */
+@media (prefers-color-scheme: dark) {
+  .question-form-card,
+  .answer-display-card {
+    background: rgba(33, 37, 41, 0.95);
+    color: #f8f9fa;
+  }
+  
+  .question-textarea {
+    background: rgba(52, 58, 64, 0.9);
+    border-color: #495057;
+    color: #f8f9fa;
+  }
+  
+  .question-context {
+    background: rgba(52, 58, 64, 0.8);
+    border-color: #495057;
+  }
+  
+  .answer-text {
+    background: rgba(52, 58, 64, 0.6);
+    color: #f8f9fa;
+  }
+}
+
+/* Paper Search Component Styles */
+.search-card {
+  border-radius: 15px;
+  border: none;
+  background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%);
+}
+
+.search-title {
+  color: #495057;
+  font-weight: 600;
+}
+
+.search-btn {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border: none;
+  border-radius: 10px;
+  padding: 12px 30px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.search-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+}
+
+.search-tips {
+  background: #f8f9fa;
+  border-radius: 10px;
+  padding: 1.5rem;
+  border-left: 4px solid #667eea;
+}
+
+.tips-title, .examples-title {
+  color: #495057;
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.tips-list {
+  font-size: 0.9rem;
+  color: #6c757d;
+  padding-left: 1.2rem;
+}
+
+.tips-list li {
+  margin-bottom: 0.5rem;
+}
+
+.popular-searches {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  border: 1px solid #e9ecef;
+}
+
+.example-btn {
+  font-size: 0.85rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+}
+
+.example-btn:hover {
+  background: #667eea;
+  color: white;
+  border-color: #667eea;
+}
+
+/* Paper Selection Component Styles */
+.paper-selection {
+  margin-top: 2rem;
+}
+
+.selection-header {
+  background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%);
+  border-radius: 15px;
+  padding: 1.5rem;
+  border: 1px solid #e9ecef;
+}
+
+.selection-controls {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid #e9ecef;
+}
+
+.select-all-checkbox {
+  font-weight: 500;
+}
+
+.select-all-checkbox .form-check-input {
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-top: 0.1rem;
+}
+
+.process-btn {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 0.6rem 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.process-btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 15px rgba(40, 167, 69, 0.3);
+}
+
+.paper-card {
+  border-radius: 12px;
+  border: 2px solid #e9ecef;
+  transition: all 0.3s ease;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+.paper-card:hover {
+  border-color: #667eea;
+  box-shadow: 0 5px 20px rgba(102, 126, 234, 0.15);
+  transform: translateY(-2px);
+}
+
+.paper-card.selected {
+  border-color: #28a745;
+  background: linear-gradient(135deg, #f8fff9 0%, #ffffff 100%);
+  box-shadow: 0 5px 20px rgba(40, 167, 69, 0.15);
+}
+
+.paper-checkbox .form-check-input {
+  width: 1.3rem;
+  height: 1.3rem;
+  margin-top: 0.2rem;
+}
+
+.paper-title {
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 1.1rem;
+  line-height: 1.4;
+  margin-bottom: 0.8rem;
+}
+
+.paper-meta {
+  margin-bottom: 1rem;
+}
+
+.paper-meta .badge {
+  font-size: 0.8rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 15px;
+}
+
+.summary-text {
+  color: #6c757d;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.paper-links .btn {
+  font-size: 0.85rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+}
+
+.bottom-action-bar {
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+  border-radius: 15px 15px 0 0;
+}
+
+.selected-count {
+  font-weight: 500;
+  color: #495057;
+  font-size: 0.95rem;
+}
+
+/* Papers info in Q&A section */
+.selected-papers-info {
+  background: linear-gradient(135deg, #e8f5e8 0%, #f0f8f0 100%);
+  border-radius: 10px;
+  padding: 1.2rem;
+  border-left: 4px solid #28a745;
+}
+
+.selected-papers-info h5 {
+  color: #2c3e50;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.papers-list {
+  background: #fff;
+  border-radius: 8px;
+  padding: 0.8rem;
+  border: 1px solid #e9ecef;
+}
+
+.paper-info-item {
+  padding: 0.3rem 0;
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+.paper-info-item:not(:last-child) {
+  border-bottom: 1px solid #f8f9fa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .search-tips {
+    padding: 1rem;
+  }
+  
+  .tips-list {
+    font-size: 0.85rem;
+  }
+  
+  .popular-searches {
+    padding: 1rem;
+  }
+  
+  .example-btn {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.6rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .selection-header {
+    padding: 1rem;
+  }
+  
+  .paper-card {
+    margin-bottom: 1rem;
+  }
+  
+  .paper-title {
+    font-size: 1rem;
+  }
+  
+  .bottom-action-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    border-radius: 0;
+    margin: 0;
+  }
+  
+  .selected-papers-info {
+    padding: 1rem;
+  }
+}
+
+/* Loading states */
+.spinner-border-sm {
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Status badges */
+.badge {
+  font-weight: 500;
+}
+
+.bg-outline-secondary {
+  background-color: transparent !important;
+  color: #6c757d !important;
+  border: 1px solid #6c757d;
+}
+
+.bg-outline-info {
+  background-color: transparent !important;
+  color: #17a2b8 !important;
+  border: 1px solid #17a2b8;
+}

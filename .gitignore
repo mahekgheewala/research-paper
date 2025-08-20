@@ -1,0 +1,31 @@
+# Dependencies
+/frontend/node_modules
+/backend/venv
+/backend/__pycache__
+*.pyc
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+/frontend/build
+/frontend/dist
+
+# Cache
+.cache
+.pytest_cache
+__pycache__
+
+# IDE specific files
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
