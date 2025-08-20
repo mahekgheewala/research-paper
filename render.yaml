@@ -1,0 +1,24 @@
+services:
+  # Backend API Service
+  - type: web
+    name: research-paper-backend
+    env: python
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && gunicorn app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.0
+      - key: GOOGLE_API_KEY
+        sync: false
+      
+  # Frontend Service
+  - type: web
+    name: research-paper-frontend
+    env: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: ./frontend/build
+    envVars:
+      - key: NODE_VERSION
+        value: 18.0.0
+      - key: REACT_APP_API_URL
+        value: https://research-paper-backend.onrender.com # Will be updated with actual backend URL
