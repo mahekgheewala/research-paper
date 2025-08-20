@@ -3,22 +3,33 @@ services:
   - type: web
     name: research-paper-backend
     env: python
+    region: ohio
+    plan: free
     buildCommand: pip install -r backend/requirements.txt
-    startCommand: cd backend && gunicorn --chdir backend app:app
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.9.0
       - key: GOOGLE_API_KEY
         sync: false
+      - key: PORT
+        value: 10000
+    autoDeploy: true
+    rootDir: backend
       
   # Frontend Service
   - type: web
     name: research-paper-frontend
-    env: static
-    buildCommand: cd frontend && npm install && npm run build
-    staticPublishPath: ./frontend/build
+    env: node
+    region: ohio
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
     envVars:
       - key: NODE_VERSION
         value: 18.0.0
       - key: REACT_APP_API_URL
+        value: https://research-paper-backend.onrender.com
+    autoDeploy: true
+    rootDir: frontend
         value: https://research-paper-backend.onrender.com # Will be updated with actual backend URL
