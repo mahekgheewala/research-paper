@@ -14,4 +14,10 @@ langchain_community
 faiss-cpu
 sentence-transformers
 lxml
-uuid    
+uuid  
+numpy
+pandas
+scikit-learn
+torch
+transformers
+streamlit
