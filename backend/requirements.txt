@@ -15,10 +15,3 @@ faiss-cpu
 sentence-transformers
 lxml
 uuid    
-flask
-numpy
-pandas
-scikit-learn
-torch
-transformers
-streamlit
