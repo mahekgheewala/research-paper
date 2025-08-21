@@ -44,6 +44,10 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 load_dotenv()
 app = Flask(__name__)
 
+from flask_cors import CORS
+CORS(app, supports_credentials=True)
+     
+
 # Secret key for Flask cookie-based sessions
 app.secret_key = os.environ.get('SECRET_KEY', 'PuDhFAut9DtJz7_9X2tVABtND40INHBKDLtNNcjhAE0')
 
