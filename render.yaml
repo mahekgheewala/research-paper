@@ -5,7 +5,8 @@ services:
     env: python
     region: ohio
     plan: free
-    buildCommand: pip install -r backend/requirements.txt
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app --bind 0.0.0.0:$PORT
     envVars:
       - key: PYTHON_VERSION
@@ -13,14 +14,14 @@ services:
       - key: GOOGLE_API_KEY
         sync: false
     autoDeploy: true
-    rootDir: backend
-      
+
   # Frontend Service
   - type: web
     name: research-paper-frontend
     env: node
     region: ohio
     plan: free
+    rootDir: frontend
     buildCommand: npm install && npm run build
     startCommand: npx serve -s build
     envVars:
@@ -29,4 +30,3 @@ services:
       - key: REACT_APP_API_URL
         value: https://research-paper-backend.onrender.com
     autoDeploy: true
-    rootDir: frontend
