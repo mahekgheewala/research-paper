@@ -45,18 +45,20 @@ load_dotenv()
 app = Flask(__name__)
 
 from flask_cors import CORS
-CORS(app, supports_credentials=True)
-     
+CORS(app, supports_credentials=True, origins=[
+    "https://research-paper-frontend-1.onrender.com"  # replace with your actual frontend Render URL
+])     
 
 # Secret key for Flask cookie-based sessions
 app.secret_key = os.environ.get('SECRET_KEY', 'PuDhFAut9DtJz7_9X2tVABtND40INHBKDLtNNcjhAE0')
 
 app.config.update(
     SESSION_COOKIE_HTTPONLY=True,
-    SESSION_COOKIE_SAMESITE='Lax',
-    SESSION_COOKIE_SECURE=False,  # Set to True if using HTTPS
+    SESSION_COOKIE_SAMESITE="None",  # Needed for cross-site requests
+    SESSION_COOKIE_SECURE=True,      # Required with SameSite=None (since Render is HTTPS)
     MAX_CONTENT_LENGTH=16 * 1024 * 1024
 )
+
 
 # Allowed frontend origins - Updated for local development
 ALLOWED_ORIGINS = [
