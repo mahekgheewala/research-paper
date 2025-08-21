@@ -12,8 +12,6 @@ services:
         value: 3.9.0
       - key: GOOGLE_API_KEY
         sync: false
-      - key: PORT
-        value: 10000
     autoDeploy: true
     rootDir: backend
       
@@ -24,7 +22,7 @@ services:
     region: ohio
     plan: free
     buildCommand: npm install && npm run build
-    startCommand: npm start
+    startCommand: npx serve -s build
     envVars:
       - key: NODE_VERSION
         value: 18.0.0
@@ -32,4 +30,3 @@ services:
         value: https://research-paper-backend.onrender.com
     autoDeploy: true
     rootDir: frontend
-        value: https://research-paper-backend.onrender.com # Will be updated with actual backend URL
