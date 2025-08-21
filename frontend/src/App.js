@@ -9,9 +9,13 @@ import PaperSearch from './components/PaperSearch';
 import PaperSelection from './components/PaperSelection';
 import QuestionForm from './components/QuestionForm';
 import AnswerDisplay from './components/AnswerDisplay';
-// API Configuration
-const API_BASE_URL = 'https://research-paper-2.onrender.com/api';
 
+// API Configuration - Using environment variables
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://research-paper-2.onrender.com/api';
+const MAX_RESULTS = parseInt(process.env.REACT_APP_MAX_PAPERS) || 8;
+const REQUEST_TIMEOUT = parseInt(process.env.REACT_APP_REQUEST_TIMEOUT) || 30000;
+const DEBUG_MODE = process.env.REACT_APP_DEBUG === 'true';
+const SHOW_DEBUG_INFO = process.env.REACT_APP_SHOW_DEBUG_INFO === 'true';
 
 function App() {
   // Main application state
@@ -26,17 +30,31 @@ function App() {
   const [showAbout, setShowAbout] = useState(false);
   const [sessionStatus, setSessionStatus] = useState(null);
 
-  // API helper function with proper error handling
+  // API helper function with proper error handling and CORS configuration
   const apiCall = async (endpoint, options = {}) => {
     try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+
       const response = await fetch(`${API_BASE_URL}${endpoint}`, {
+        method: options.method || 'GET',
+        mode: 'cors', // Explicitly set CORS mode
         credentials: 'include',
+        signal: controller.signal,
         headers: {
           'Content-Type': 'application/json',
+          'Accept': 'application/json',
           ...options.headers,
         },
         ...options,
       });
+
+      clearTimeout(timeoutId);
+
+      // Check if response is ok
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
 
       const data = await response.json();
       
@@ -47,6 +65,14 @@ function App() {
       return data;
     } catch (error) {
       console.error(`API call failed for ${endpoint}:`, error);
+      
+      // Provide more specific error messages
+      if (error.name === 'TypeError' && error.message.includes('fetch')) {
+        throw new Error('Unable to connect to server. Please check your internet connection.');
+      } else if (error.message.includes('CORS')) {
+        throw new Error('Cross-origin request blocked. Please check server CORS configuration.');
+      }
+      
       throw error;
     }
   };
@@ -55,7 +81,10 @@ function App() {
   useEffect(() => {
     const checkSessionStatus = async () => {
       try {
+        console.log('Checking session status at:', API_BASE_URL);
         const data = await apiCall('/get_session_status');
+        console.log('Session status:', data);
+        
         // Store session status and update the current step based on it
         setSessionStatus(data);
         
@@ -67,7 +96,7 @@ function App() {
         }
       } catch (error) {
         console.error('Failed to check session status:', error);
-        setError('Failed to connect to the server. Please try again.');
+        setError(`Failed to connect to the server: ${error.message}`);
       }
     };
 
@@ -83,17 +112,20 @@ function App() {
     setError('');
 
     try {
+      if (DEBUG_MODE) console.log('Searching papers with query:', searchQuery);
       const data = await apiCall('/search_papers', {
         method: 'POST',
         body: JSON.stringify({
           query: searchQuery,
-          max_results: 8
+          max_results: MAX_RESULTS
         }),
       });
 
+      if (DEBUG_MODE) console.log('Search results:', data);
       setPapers(data.papers || []);
       setCurrentStep('select');
     } catch (error) {
+      console.error('Search error:', error);
       setError(error.message || 'Failed to search papers');
     } finally {
       setLoading(false);
@@ -106,6 +138,7 @@ function App() {
     setError('');
 
     try {
+      if (DEBUG_MODE) console.log('Selecting papers:', selectedIndices);
       const data = await apiCall('/select_papers', {
         method: 'POST',
         body: JSON.stringify({
@@ -113,9 +146,11 @@ function App() {
         }),
       });
 
+      if (DEBUG_MODE) console.log('Paper selection result:', data);
       setSelectedPapers(data.papers_info || []);
       setCurrentStep('qa');
     } catch (error) {
+      console.error('Paper selection error:', error);
       setError(error.message || 'Failed to process selected papers');
     } finally {
       setLoading(false);
@@ -132,6 +167,7 @@ function App() {
     setAnswer('');
 
     try {
+      console.log('Asking question:', question);
       const data = await apiCall('/ask_question', {
         method: 'POST',
         body: JSON.stringify({
@@ -139,8 +175,10 @@ function App() {
         }),
       });
 
+      console.log('Answer received:', data);
       setAnswer(data.answer || 'No answer received');
     } catch (error) {
+      console.error('Question error:', error);
       setError(error.message || 'Failed to get answer');
     } finally {
       setLoading(false);
@@ -169,6 +207,7 @@ function App() {
   const handleClearAll = async () => {
     setLoading(true);
     try {
+      if (DEBUG_MODE) console.log('Clearing session');
       await apiCall('/clear_session', { method: 'POST' });
       
       // Reset all state
@@ -181,6 +220,7 @@ function App() {
       setError('');
       setSessionStatus(null);
     } catch (error) {
+      console.error('Clear session error:', error);
       setError('Failed to clear session');
     } finally {
       setLoading(false);
@@ -200,6 +240,19 @@ function App() {
           Connection to server lost. Please refresh the page.
         </Alert>
       )}
+      
+      {/* Debug info in development */}
+      {(process.env.NODE_ENV === 'development' || SHOW_DEBUG_INFO) && (
+        <Alert variant="info" className="m-2">
+          <small>
+            Backend URL: {API_BASE_URL}<br/>
+            Max Papers: {MAX_RESULTS}<br/>
+            Timeout: {REQUEST_TIMEOUT}ms<br/>
+            Debug Mode: {DEBUG_MODE ? 'ON' : 'OFF'}
+          </small>
+        </Alert>
+      )}
+      
       <CustomNavbar 
         onClear={handleClearAll} 
         onToggleAbout={toggleAbout}
