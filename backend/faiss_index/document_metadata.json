@@ -613,5 +613,2931 @@
     "source_type": "arxiv",
     "arxiv_url": "https://arxiv.org/abs/1803.09356v1",
     "doc_id": "1803.09356v1_e62b6e2ce0af7208b27cad12cae5c52e"
+  },
+  "1909.03550v1_2ab871bf8f1d3556f6c0da673564dba9": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 0,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2ab871bf8f1d3556f6c0da673564dba9"
+  },
+  "1909.03550v1_f18074f8b138ed9e289a2210c2b86838": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 1,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f18074f8b138ed9e289a2210c2b86838"
+  },
+  "1909.03550v1_0415d395099d8cf83f92267824d276c7": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 2,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0415d395099d8cf83f92267824d276c7"
+  },
+  "1909.03550v1_cdcd0451eee51af9c1e1fea494fad563": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 3,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cdcd0451eee51af9c1e1fea494fad563"
+  },
+  "1909.03550v1_d2a8da2dbe55e5339b913e856fcd3713": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 4,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d2a8da2dbe55e5339b913e856fcd3713"
+  },
+  "1909.03550v1_24e1e0e6359d58c004da411c9a705f67": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 5,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_24e1e0e6359d58c004da411c9a705f67"
+  },
+  "1909.03550v1_a15b421f9b8abcf88cac3cfd8102b29d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 6,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a15b421f9b8abcf88cac3cfd8102b29d"
+  },
+  "1909.03550v1_12dd8d9e0848044a8f747a5afd93a063": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 7,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_12dd8d9e0848044a8f747a5afd93a063"
+  },
+  "1909.03550v1_4ebba068bb8e7d3062589af6e16f6b6e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 8,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4ebba068bb8e7d3062589af6e16f6b6e"
+  },
+  "1909.03550v1_5949cb6ddd000978e3b3f022e487a0a2": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 9,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_5949cb6ddd000978e3b3f022e487a0a2"
+  },
+  "1909.03550v1_b83d606abab39cdcfb8f01a164856a64": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 10,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b83d606abab39cdcfb8f01a164856a64"
+  },
+  "1909.03550v1_f8c962fa6f807b903e270054100c642e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 11,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f8c962fa6f807b903e270054100c642e"
+  },
+  "1909.03550v1_3f3187468825d92323a6801ce910b3a7": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 12,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3f3187468825d92323a6801ce910b3a7"
+  },
+  "1909.03550v1_19faf6ff1255a39d22404dd0a3d9d447": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 13,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_19faf6ff1255a39d22404dd0a3d9d447"
+  },
+  "1909.03550v1_acea8b2098193241378105ee24a10fbe": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 14,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_acea8b2098193241378105ee24a10fbe"
+  },
+  "1909.03550v1_9e7c664d362748a6643686c80bbbd92a": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 15,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_9e7c664d362748a6643686c80bbbd92a"
+  },
+  "1909.03550v1_ef33cbd00a630b1a04603046da75e0c2": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 16,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ef33cbd00a630b1a04603046da75e0c2"
+  },
+  "1909.03550v1_ec5604115bd353936a3baf6d8f121661": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 17,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ec5604115bd353936a3baf6d8f121661"
+  },
+  "1909.03550v1_b3f50b788e4118084047118b10809aa4": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 18,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b3f50b788e4118084047118b10809aa4"
+  },
+  "1909.03550v1_04df8e86a80b6c1d50e14990e3cc7a14": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 19,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_04df8e86a80b6c1d50e14990e3cc7a14"
+  },
+  "1909.03550v1_1134a136899d8d387661a88a6f1f7b4b": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 20,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1134a136899d8d387661a88a6f1f7b4b"
+  },
+  "1909.03550v1_64b9315986378f169c0473b6e31ccb28": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 21,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_64b9315986378f169c0473b6e31ccb28"
+  },
+  "1909.03550v1_88976c9f620b36c19bfd343280147431": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 22,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_88976c9f620b36c19bfd343280147431"
+  },
+  "1909.03550v1_e387637f7710fccf368ef8b9cfeb8b22": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 23,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e387637f7710fccf368ef8b9cfeb8b22"
+  },
+  "1909.03550v1_97d699b22376433be579b96658288338": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 24,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_97d699b22376433be579b96658288338"
+  },
+  "1909.03550v1_07b6a0e583d1c0ded9385137d6735db0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 25,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_07b6a0e583d1c0ded9385137d6735db0"
+  },
+  "1909.03550v1_66d499bf4f79cac0b9b737f5419e5a5c": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 26,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_66d499bf4f79cac0b9b737f5419e5a5c"
+  },
+  "1909.03550v1_6d88c763f04a0080855a9a693e255008": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 27,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6d88c763f04a0080855a9a693e255008"
+  },
+  "1909.03550v1_d467628ed4e8558f876556b6fdef5ea1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 28,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d467628ed4e8558f876556b6fdef5ea1"
+  },
+  "1909.03550v1_aeee425d3924b72a222e266587907ac3": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 29,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_aeee425d3924b72a222e266587907ac3"
+  },
+  "1909.03550v1_bc819133a857ec139471c20801da5470": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 30,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bc819133a857ec139471c20801da5470"
+  },
+  "1909.03550v1_e16d94823adc619c1d5e7cf982ecdc15": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 31,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e16d94823adc619c1d5e7cf982ecdc15"
+  },
+  "1909.03550v1_6db6410dc6f8ce797140c9ee8f40107f": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 32,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6db6410dc6f8ce797140c9ee8f40107f"
+  },
+  "1909.03550v1_56a9f5691b912425d3140c5245c912c4": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 33,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_56a9f5691b912425d3140c5245c912c4"
+  },
+  "1909.03550v1_7ce05c2636635de92ff2178c098daa79": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 34,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_7ce05c2636635de92ff2178c098daa79"
+  },
+  "1909.03550v1_f3161c1a002d0ecb4a9a78648a83f330": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 35,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f3161c1a002d0ecb4a9a78648a83f330"
+  },
+  "1909.03550v1_fa12f7101ba404b5df7e5dbe1c599367": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 36,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_fa12f7101ba404b5df7e5dbe1c599367"
+  },
+  "1909.03550v1_d7e7285b21c7d3d7c0babf4313945c5e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 37,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d7e7285b21c7d3d7c0babf4313945c5e"
+  },
+  "1909.03550v1_6df316c0ec7332b818ad2e0021deb3ca": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 38,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6df316c0ec7332b818ad2e0021deb3ca"
+  },
+  "1909.03550v1_f925f769a706712fe2dfaa9e79ee3d24": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 39,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f925f769a706712fe2dfaa9e79ee3d24"
+  },
+  "1909.03550v1_b43e746ba228bc550f86e28d13f3e653": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 40,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b43e746ba228bc550f86e28d13f3e653"
+  },
+  "1909.03550v1_ddb6ded525c8f017b1c5df1bdd310c9e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 41,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ddb6ded525c8f017b1c5df1bdd310c9e"
+  },
+  "1909.03550v1_cf4c196ef32be0c037be0640cae81822": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 42,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cf4c196ef32be0c037be0640cae81822"
+  },
+  "1909.03550v1_cb444f736b0e6d45d269f0ad83949840": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 43,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cb444f736b0e6d45d269f0ad83949840"
+  },
+  "1909.03550v1_9f048bf4009600446bf93f888d03e207": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 44,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_9f048bf4009600446bf93f888d03e207"
+  },
+  "1909.03550v1_b8c58ca5b7967845a004a8bc84bc0b00": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 45,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b8c58ca5b7967845a004a8bc84bc0b00"
+  },
+  "1909.03550v1_cb0a6cb6cd794f53023efbe49fef8df4": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 46,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cb0a6cb6cd794f53023efbe49fef8df4"
+  },
+  "1909.03550v1_c3de2ed9bff86403d50f75f3fb07a364": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 47,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_c3de2ed9bff86403d50f75f3fb07a364"
+  },
+  "1909.03550v1_1c1fb330459d5d8163755be1c60198aa": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 48,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1c1fb330459d5d8163755be1c60198aa"
+  },
+  "1909.03550v1_0f026f4fe01b13c9932ec6daef63362d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 49,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0f026f4fe01b13c9932ec6daef63362d"
+  },
+  "1909.03550v1_f34a4805eff863dc243cedb45fceba85": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 50,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f34a4805eff863dc243cedb45fceba85"
+  },
+  "1909.03550v1_b9e33a6aaf177ef8dacea06ca6cce259": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 51,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b9e33a6aaf177ef8dacea06ca6cce259"
+  },
+  "1909.03550v1_cad44bb1fee77e493e7f481c4b2bd387": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 52,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cad44bb1fee77e493e7f481c4b2bd387"
+  },
+  "1909.03550v1_1978b24344f9fd722b0d49cf63487e0c": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 53,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1978b24344f9fd722b0d49cf63487e0c"
+  },
+  "1909.03550v1_b2b34a9966f34f48d69698908b29b4ab": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 54,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b2b34a9966f34f48d69698908b29b4ab"
+  },
+  "1909.03550v1_92ed85078140353bf3c0e5a860fa35f6": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 55,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_92ed85078140353bf3c0e5a860fa35f6"
+  },
+  "1909.03550v1_fa674964953f3c5a56a68e97b028d7ac": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 56,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_fa674964953f3c5a56a68e97b028d7ac"
+  },
+  "1909.03550v1_e320c071b068688b261b91ec2ef40fc7": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 57,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e320c071b068688b261b91ec2ef40fc7"
+  },
+  "1909.03550v1_2158a467c52101bd03b93666d3cef8dd": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 58,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2158a467c52101bd03b93666d3cef8dd"
+  },
+  "1909.03550v1_b8db66baddfc5bd4eef7f11352ceb285": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 59,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b8db66baddfc5bd4eef7f11352ceb285"
+  },
+  "1909.03550v1_8df99eb5203f1ffca43fdbee96bd2fa1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 60,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_8df99eb5203f1ffca43fdbee96bd2fa1"
+  },
+  "1909.03550v1_a81e2137137c2d173db7545eac7cb067": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 61,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a81e2137137c2d173db7545eac7cb067"
+  },
+  "1909.03550v1_e38c09444d16fbed9b0707612011ad74": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 62,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e38c09444d16fbed9b0707612011ad74"
+  },
+  "1909.03550v1_293d065d7dded1e0e430d7b811b84f96": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 63,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_293d065d7dded1e0e430d7b811b84f96"
+  },
+  "1909.03550v1_81fd73e8ed97e995c2c4e16ccccc138e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 64,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_81fd73e8ed97e995c2c4e16ccccc138e"
+  },
+  "1909.03550v1_b2d7b07c0a94e42dd6981c6a6cfe1ce7": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 65,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b2d7b07c0a94e42dd6981c6a6cfe1ce7"
+  },
+  "1909.03550v1_56347d936aeb69de6a9e7a971a73eadc": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 66,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_56347d936aeb69de6a9e7a971a73eadc"
+  },
+  "1909.03550v1_24b121980e3a3067c3a7391f81821a8a": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 67,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_24b121980e3a3067c3a7391f81821a8a"
+  },
+  "1909.03550v1_3e404fa19528242cf2da9edd156a0f07": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 68,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3e404fa19528242cf2da9edd156a0f07"
+  },
+  "1909.03550v1_0f48ed9919297f0b3ed52ea39b2f801e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 69,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0f48ed9919297f0b3ed52ea39b2f801e"
+  },
+  "1909.03550v1_0957baa78d03e35e266946df518eab28": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 70,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0957baa78d03e35e266946df518eab28"
+  },
+  "1909.03550v1_bbc4ab632d5e7b5d86365d9be608233d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 71,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bbc4ab632d5e7b5d86365d9be608233d"
+  },
+  "1909.03550v1_9882813de62d6a72a7cf9253daa61a61": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 72,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_9882813de62d6a72a7cf9253daa61a61"
+  },
+  "1909.03550v1_36a434569ce47a25d751e42a455ed2e6": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 73,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_36a434569ce47a25d751e42a455ed2e6"
+  },
+  "1909.03550v1_6e0659048d5a81a9f4f6efb0a3d51b11": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 74,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6e0659048d5a81a9f4f6efb0a3d51b11"
+  },
+  "1909.03550v1_c52ca208d5815b7a5c88a7f6dad9c586": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 75,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_c52ca208d5815b7a5c88a7f6dad9c586"
+  },
+  "1909.03550v1_992658e109fa7f23b18888368541cebf": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 76,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_992658e109fa7f23b18888368541cebf"
+  },
+  "1909.03550v1_25daf1632d66de8bec45e8476908bdc3": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 77,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_25daf1632d66de8bec45e8476908bdc3"
+  },
+  "1909.03550v1_51f2828051c96f6362e2f315ea5e1ab0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 78,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_51f2828051c96f6362e2f315ea5e1ab0"
+  },
+  "1909.03550v1_9adf1f8cbd2c159de16072a06e51548e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 79,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_9adf1f8cbd2c159de16072a06e51548e"
+  },
+  "1909.03550v1_2654863f7ee71d27e3006ed62fd12ef4": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 80,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2654863f7ee71d27e3006ed62fd12ef4"
+  },
+  "1909.03550v1_f6658154c1aa45b537014677c4d76540": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 81,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f6658154c1aa45b537014677c4d76540"
+  },
+  "1909.03550v1_a1d6999963b309d31b55726dac5f48d4": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 82,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a1d6999963b309d31b55726dac5f48d4"
+  },
+  "1909.03550v1_22bf91af9e2f273ed15e32dbdc25a182": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 83,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_22bf91af9e2f273ed15e32dbdc25a182"
+  },
+  "1909.03550v1_5d6542c833c5ae7f0f124df5cf45f3ad": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 84,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_5d6542c833c5ae7f0f124df5cf45f3ad"
+  },
+  "1909.03550v1_07d43257cf25430591fac54a300043a1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 85,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_07d43257cf25430591fac54a300043a1"
+  },
+  "1909.03550v1_4d4b6a5d9670f4bcb170827fa95abbbd": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 86,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4d4b6a5d9670f4bcb170827fa95abbbd"
+  },
+  "1909.03550v1_9cba7d0dc195ebb036be866375014923": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 87,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_9cba7d0dc195ebb036be866375014923"
+  },
+  "1909.03550v1_9a02acbd8ee8c62a46d15120f5505223": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 88,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_9a02acbd8ee8c62a46d15120f5505223"
+  },
+  "1909.03550v1_788d00d3ec39952f689acc8dca2cd64b": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 89,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_788d00d3ec39952f689acc8dca2cd64b"
+  },
+  "1909.03550v1_afe44ded816964a343e1e81f5c811ab6": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 90,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_afe44ded816964a343e1e81f5c811ab6"
+  },
+  "1909.03550v1_cd309039afe0960811bac03afd00db9d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 91,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cd309039afe0960811bac03afd00db9d"
+  },
+  "1909.03550v1_87c38c35d12fc09765989f4e0a10886e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 92,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_87c38c35d12fc09765989f4e0a10886e"
+  },
+  "1909.03550v1_8ce1a41271a0a586bd03d2cd07006db8": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 93,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_8ce1a41271a0a586bd03d2cd07006db8"
+  },
+  "1909.03550v1_be63a09322211568769720abe5eb9bde": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 94,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_be63a09322211568769720abe5eb9bde"
+  },
+  "1909.03550v1_28de22573425a6c4e054225e07c4875c": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 95,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_28de22573425a6c4e054225e07c4875c"
+  },
+  "1909.03550v1_cd975acc096b65e2efed984c216e0c41": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 96,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cd975acc096b65e2efed984c216e0c41"
+  },
+  "1909.03550v1_bd21915a2f9f590123d9dc9810c00147": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 97,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bd21915a2f9f590123d9dc9810c00147"
+  },
+  "1909.03550v1_bf4e14f13fc2fc60e3b9be3b2c7f91ce": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 98,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bf4e14f13fc2fc60e3b9be3b2c7f91ce"
+  },
+  "1909.03550v1_a86b04f94898c1b612fc8a11d06a1dd9": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 99,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a86b04f94898c1b612fc8a11d06a1dd9"
+  },
+  "1909.03550v1_255b8e11cc9b5e7a826af92af0fcfca1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 100,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_255b8e11cc9b5e7a826af92af0fcfca1"
+  },
+  "1909.03550v1_2ccd2dbf17172bba83178add04f73728": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 101,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2ccd2dbf17172bba83178add04f73728"
+  },
+  "1909.03550v1_4844ac7dbd00a329a45b9604db5b68ea": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 102,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4844ac7dbd00a329a45b9604db5b68ea"
+  },
+  "1909.03550v1_c5bf025b954396d40b2f1bea54133af0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 103,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_c5bf025b954396d40b2f1bea54133af0"
+  },
+  "1909.03550v1_0b993df39aca677747586b3b9efc5f56": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 104,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0b993df39aca677747586b3b9efc5f56"
+  },
+  "1909.03550v1_fc6213e09ac4c8ab4b36e2d03df2c2ff": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 105,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_fc6213e09ac4c8ab4b36e2d03df2c2ff"
+  },
+  "1909.03550v1_021993f1633427e99909699978ffbad1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 106,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_021993f1633427e99909699978ffbad1"
+  },
+  "1909.03550v1_fe35968da5d747dbaae4e344fb7ff037": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 107,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_fe35968da5d747dbaae4e344fb7ff037"
+  },
+  "1909.03550v1_77413064edf8e935309a2228f330ecc1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 108,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_77413064edf8e935309a2228f330ecc1"
+  },
+  "1909.03550v1_ab02c640ee85cba9ac1ce30f04ddfb78": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 109,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ab02c640ee85cba9ac1ce30f04ddfb78"
+  },
+  "1909.03550v1_4aa16ec13d10498395c20ee9d2ffce5c": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 110,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4aa16ec13d10498395c20ee9d2ffce5c"
+  },
+  "1909.03550v1_3dd121628e384caa05204ffa1ff03f41": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 111,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3dd121628e384caa05204ffa1ff03f41"
+  },
+  "1909.03550v1_bfced2a70127245b8185ca7232eedab5": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 112,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bfced2a70127245b8185ca7232eedab5"
+  },
+  "1909.03550v1_edbf071f0ab16147f658635cfe885631": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 113,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_edbf071f0ab16147f658635cfe885631"
+  },
+  "1909.03550v1_3417127cc99499132b5cafd9f71fc25f": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 114,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3417127cc99499132b5cafd9f71fc25f"
+  },
+  "1909.03550v1_fcccb6925fb9ed8951b9b124c3dfd5df": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 115,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_fcccb6925fb9ed8951b9b124c3dfd5df"
+  },
+  "1909.03550v1_ad4bcd5c5f2974d00d83d102c48866b3": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 116,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ad4bcd5c5f2974d00d83d102c48866b3"
+  },
+  "1909.03550v1_77c21b68237b3b212da38e96312f1175": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 117,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_77c21b68237b3b212da38e96312f1175"
+  },
+  "1909.03550v1_7459a4cd2e1e9316368d17f9ac2e268e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 118,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_7459a4cd2e1e9316368d17f9ac2e268e"
+  },
+  "1909.03550v1_e47e1b35ccfab70fe515e0c0f2554415": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 119,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e47e1b35ccfab70fe515e0c0f2554415"
+  },
+  "1909.03550v1_815bcdfd67822d3c5c5d47eee84a6fa0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 120,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_815bcdfd67822d3c5c5d47eee84a6fa0"
+  },
+  "1909.03550v1_2488c73e357e73147169140d6bcf27a5": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 121,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2488c73e357e73147169140d6bcf27a5"
+  },
+  "1909.03550v1_c514690c23c516a090e47c346295fc96": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 122,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_c514690c23c516a090e47c346295fc96"
+  },
+  "1909.03550v1_8d7b8bb00e1d2f7725a31f50a3ff5219": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 123,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_8d7b8bb00e1d2f7725a31f50a3ff5219"
+  },
+  "1909.03550v1_97a6aa06280fde9fb1ff2b36238e85e6": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 124,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_97a6aa06280fde9fb1ff2b36238e85e6"
+  },
+  "1909.03550v1_75a1086c2a2b390cc90ec60362565963": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 125,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_75a1086c2a2b390cc90ec60362565963"
+  },
+  "1909.03550v1_18cd3681cef10eb56161faf388c4549d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 126,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_18cd3681cef10eb56161faf388c4549d"
+  },
+  "1909.03550v1_d930f2a803dbeb3adbdbe4affd1300df": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 127,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d930f2a803dbeb3adbdbe4affd1300df"
+  },
+  "1909.03550v1_83c066d8e34aa12e0634f8836c4b5541": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 128,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_83c066d8e34aa12e0634f8836c4b5541"
+  },
+  "1909.03550v1_50469c7020788f15307b44771de5f0e7": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 129,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_50469c7020788f15307b44771de5f0e7"
+  },
+  "1909.03550v1_8400d4e9f7c285d10b3ed87a9f2f10cd": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 130,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_8400d4e9f7c285d10b3ed87a9f2f10cd"
+  },
+  "1909.03550v1_517bafc0332374cb9e43e1f0c942f7ec": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 131,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_517bafc0332374cb9e43e1f0c942f7ec"
+  },
+  "1909.03550v1_69a0023d4a57dedd609aefd38b9a1d0a": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 132,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_69a0023d4a57dedd609aefd38b9a1d0a"
+  },
+  "1909.03550v1_f9c0590108c47b75077e9db54e4e79b8": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 133,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f9c0590108c47b75077e9db54e4e79b8"
+  },
+  "1909.03550v1_aba58629523d81bfe097095a9fe34c40": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 134,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_aba58629523d81bfe097095a9fe34c40"
+  },
+  "1909.03550v1_94abee373ff72125afae609580fef391": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 135,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_94abee373ff72125afae609580fef391"
+  },
+  "1909.03550v1_f76c6314852471eccb2cd42d911b94bf": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 136,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f76c6314852471eccb2cd42d911b94bf"
+  },
+  "1909.03550v1_ec06e12c00857f9864bce075547758aa": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 137,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ec06e12c00857f9864bce075547758aa"
+  },
+  "1909.03550v1_0554056eb858db49bd60b3c844a59f75": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 138,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0554056eb858db49bd60b3c844a59f75"
+  },
+  "1909.03550v1_de3793d80b5a50e5ab7d82e1c86b0b27": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 139,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_de3793d80b5a50e5ab7d82e1c86b0b27"
+  },
+  "1909.03550v1_876ac173f945936105aec1a4d1fdff6f": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 140,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_876ac173f945936105aec1a4d1fdff6f"
+  },
+  "1909.03550v1_3122d7a463114665b6673437a0c16d53": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 141,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3122d7a463114665b6673437a0c16d53"
+  },
+  "1909.03550v1_ce798abfc0c58ce2c2d14f06ecf4ba8a": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 142,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ce798abfc0c58ce2c2d14f06ecf4ba8a"
+  },
+  "1909.03550v1_d7c6e99a9de0b5c19dabe5ea68c833f5": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 143,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d7c6e99a9de0b5c19dabe5ea68c833f5"
+  },
+  "1909.03550v1_37aa1d720b20db8bf3de06a295db12a1": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 144,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_37aa1d720b20db8bf3de06a295db12a1"
+  },
+  "1909.03550v1_4dbdc72fbf25623671509ae59e1b23d7": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 145,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4dbdc72fbf25623671509ae59e1b23d7"
+  },
+  "1909.03550v1_402516de3ea3ea245dace74e468a5ece": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 146,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_402516de3ea3ea245dace74e468a5ece"
+  },
+  "1909.03550v1_49fb1f0549172decd33db34e509dcf4e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 147,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_49fb1f0549172decd33db34e509dcf4e"
+  },
+  "1909.03550v1_4ae7c9bb02d14f593a78d5fd7e9d8f58": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 148,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4ae7c9bb02d14f593a78d5fd7e9d8f58"
+  },
+  "1909.03550v1_d05f29a5f9920bf451bb916b147c9324": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 149,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d05f29a5f9920bf451bb916b147c9324"
+  },
+  "1909.03550v1_481d91900eb1c7f99c617d9fd5054eab": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 150,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_481d91900eb1c7f99c617d9fd5054eab"
+  },
+  "1909.03550v1_03b8ad2d81cd68701b9f45dfb253907f": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 151,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_03b8ad2d81cd68701b9f45dfb253907f"
+  },
+  "1909.03550v1_d6c0d9a9dce80aa828d8f1c955eff592": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 152,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d6c0d9a9dce80aa828d8f1c955eff592"
+  },
+  "1909.03550v1_6ea5badea1f27d11e29e8a3b9cc51652": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 153,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6ea5badea1f27d11e29e8a3b9cc51652"
+  },
+  "1909.03550v1_e84292289c55667f139302ed5066fefa": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 154,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e84292289c55667f139302ed5066fefa"
+  },
+  "1909.03550v1_8e380c7292624f36a17ea74894724d92": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 155,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_8e380c7292624f36a17ea74894724d92"
+  },
+  "1909.03550v1_aa3aaa9e68af419d07d83d01a7912fca": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 156,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_aa3aaa9e68af419d07d83d01a7912fca"
+  },
+  "1909.03550v1_10c22e1466613713d53055884eaee537": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 157,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_10c22e1466613713d53055884eaee537"
+  },
+  "1909.03550v1_3aa951666dec9dee537bb99a09caaf36": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 158,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3aa951666dec9dee537bb99a09caaf36"
+  },
+  "1909.03550v1_1e5bd51c88dd5087ecca43b62a65292f": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 159,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1e5bd51c88dd5087ecca43b62a65292f"
+  },
+  "1909.03550v1_6b2811c60103460fdac3dad5bbefd83e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 160,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6b2811c60103460fdac3dad5bbefd83e"
+  },
+  "1909.03550v1_ba141f1929534ded7be38629d54447f9": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 161,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_ba141f1929534ded7be38629d54447f9"
+  },
+  "1909.03550v1_b99bff147a5e89abc41e0f6aa9f9aa00": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 162,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b99bff147a5e89abc41e0f6aa9f9aa00"
+  },
+  "1909.03550v1_c85660e9d8af2a24b031ede59f02d88d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 163,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_c85660e9d8af2a24b031ede59f02d88d"
+  },
+  "1909.03550v1_48ed5afc090decf1c6294e29eecabbf8": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 164,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_48ed5afc090decf1c6294e29eecabbf8"
+  },
+  "1909.03550v1_f5639ffb607065093151fee210ccb5bc": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 165,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_f5639ffb607065093151fee210ccb5bc"
+  },
+  "1909.03550v1_6f560eb36c424ec0933c663b56a5d600": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 166,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6f560eb36c424ec0933c663b56a5d600"
+  },
+  "1909.03550v1_6911386ef55f7df278a43ca7a26f023e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 167,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6911386ef55f7df278a43ca7a26f023e"
+  },
+  "1909.03550v1_2cc31d8aa790a61c964dc0a317b90565": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 168,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2cc31d8aa790a61c964dc0a317b90565"
+  },
+  "1909.03550v1_e29b46e558fc9d619c74981a9ff03d0e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 169,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e29b46e558fc9d619c74981a9ff03d0e"
+  },
+  "1909.03550v1_a8e1345651621bb0bf27ceea3fcd007d": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 170,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a8e1345651621bb0bf27ceea3fcd007d"
+  },
+  "1909.03550v1_cc494c2e98cda4b8bad7c42a5f56ab98": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 171,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_cc494c2e98cda4b8bad7c42a5f56ab98"
+  },
+  "1909.03550v1_bab8af672537fb5b12fa053701ec0bac": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 172,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bab8af672537fb5b12fa053701ec0bac"
+  },
+  "1909.03550v1_494ac233d352fd3a3397952136e833ff": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 173,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_494ac233d352fd3a3397952136e833ff"
+  },
+  "1909.03550v1_d6d0b3a0126d76c62a6d20dbc4d968e0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 174,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d6d0b3a0126d76c62a6d20dbc4d968e0"
+  },
+  "1909.03550v1_db8d95ac3d1d34017d55687c786114d9": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 175,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_db8d95ac3d1d34017d55687c786114d9"
+  },
+  "1909.03550v1_5f6945dbe4389cc0d1884b3ef6e8ad30": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 176,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_5f6945dbe4389cc0d1884b3ef6e8ad30"
+  },
+  "1909.03550v1_6f742daf0fd1f0b6ad6c21bfbcf10851": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 177,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6f742daf0fd1f0b6ad6c21bfbcf10851"
+  },
+  "1909.03550v1_909b4086b8fbcd95331626473caaca02": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 178,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_909b4086b8fbcd95331626473caaca02"
+  },
+  "1909.03550v1_df6b46dcbc37238379e4a95fc37b13c0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 179,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_df6b46dcbc37238379e4a95fc37b13c0"
+  },
+  "1909.03550v1_d8560fa7f5bef4d238b33ae8cc08a622": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 180,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d8560fa7f5bef4d238b33ae8cc08a622"
+  },
+  "1909.03550v1_0176af2dba1cf6fcf3a8de8b4eccee4e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 181,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0176af2dba1cf6fcf3a8de8b4eccee4e"
+  },
+  "1909.03550v1_d2a082f8862bcf48830b4ad5ed698564": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 182,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d2a082f8862bcf48830b4ad5ed698564"
+  },
+  "1909.03550v1_3835c720a0f36b761f19ccd86eb34eb4": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 183,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_3835c720a0f36b761f19ccd86eb34eb4"
+  },
+  "1909.03550v1_a8207296471acf8d7538a192ff79ff73": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 184,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a8207296471acf8d7538a192ff79ff73"
+  },
+  "1909.03550v1_4c94c301c7929ac1098d89346b6d12f0": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 185,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_4c94c301c7929ac1098d89346b6d12f0"
+  },
+  "1909.03550v1_d974cccda194517c76585675fa76fa14": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 186,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d974cccda194517c76585675fa76fa14"
+  },
+  "1909.03550v1_a255d235c3f8ea5ad654b92a4f9e9563": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 187,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_a255d235c3f8ea5ad654b92a4f9e9563"
+  },
+  "1909.03550v1_b1df2f0292fa7e1fc4f385f70d395944": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 188,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_b1df2f0292fa7e1fc4f385f70d395944"
+  },
+  "1909.03550v1_af6caab0b533a83554e9b1ed66fc1d42": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 189,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_af6caab0b533a83554e9b1ed66fc1d42"
+  },
+  "1909.03550v1_28e343c95799d9fa236ff3380f69f406": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 190,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_28e343c95799d9fa236ff3380f69f406"
+  },
+  "1909.03550v1_6a03f19a2121dae8c96d19d913d2d290": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 191,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_6a03f19a2121dae8c96d19d913d2d290"
+  },
+  "1909.03550v1_e84ff00b6da85f1abc2e5607a5af35e8": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 192,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_e84ff00b6da85f1abc2e5607a5af35e8"
+  },
+  "1909.03550v1_7d7021efc6a1cf93a09e5a75d728b7fa": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 193,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_7d7021efc6a1cf93a09e5a75d728b7fa"
+  },
+  "1909.03550v1_1d0e42c980034bfe3a8a955cdde984ab": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 194,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1d0e42c980034bfe3a8a955cdde984ab"
+  },
+  "1909.03550v1_d73d72ddb5a9cf61737bce9b6fce26fd": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 195,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_d73d72ddb5a9cf61737bce9b6fce26fd"
+  },
+  "1909.03550v1_74b1e9d2f4abd9d293698c146b864ef2": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 196,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_74b1e9d2f4abd9d293698c146b864ef2"
+  },
+  "1909.03550v1_bda03a91b12b9596af3dcee5ee1abf89": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 197,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_bda03a91b12b9596af3dcee5ee1abf89"
+  },
+  "1909.03550v1_1110e5a33ff71d1c2f7b12f772e69122": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 198,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1110e5a33ff71d1c2f7b12f772e69122"
+  },
+  "1909.03550v1_200408a23496face881c901a99a4f001": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 199,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_200408a23496face881c901a99a4f001"
+  },
+  "1909.03550v1_c143eb2613584bfe60c1c2a80ad30898": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 200,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_c143eb2613584bfe60c1c2a80ad30898"
+  },
+  "1909.03550v1_1c17efa4b32233a550c6fa8cb7df713e": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 201,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_1c17efa4b32233a550c6fa8cb7df713e"
+  },
+  "1909.03550v1_af19c54f3ec22dc209816b84d4cf49e5": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 202,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_af19c54f3ec22dc209816b84d4cf49e5"
+  },
+  "1909.03550v1_338e678d7008fc11a2a63a35f5ff4c65": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 203,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_338e678d7008fc11a2a63a35f5ff4c65"
+  },
+  "1909.03550v1_2f215e8091021a68504dc34eca8d1c1b": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 204,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_2f215e8091021a68504dc34eca8d1c1b"
+  },
+  "1909.03550v1_dc80d88d61639f21f2f57dd45b073477": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 205,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_dc80d88d61639f21f2f57dd45b073477"
+  },
+  "1909.03550v1_0b7ad560fd5935978da7035040eeb6d2": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 206,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_0b7ad560fd5935978da7035040eeb6d2"
+  },
+  "1909.03550v1_62dfc9bd4a29db0108fb8c1cabfc0376": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 207,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_62dfc9bd4a29db0108fb8c1cabfc0376"
+  },
+  "1909.03550v1_652481dcf1c4ee71af9a871653234faf": {
+    "title": "Unknown Title",
+    "arxiv_id": "1909.03550v1",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "",
+    "chunk_id": 208,
+    "total_chunks": 209,
+    "source": "Unknown Title (arXiv ID: 1909.03550v1)",
+    "source_type": "arxiv",
+    "arxiv_url": "https://arxiv.org/abs/1909.03550v1",
+    "doc_id": "1909.03550v1_652481dcf1c4ee71af9a871653234faf"
   }
 }

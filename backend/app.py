@@ -45,9 +45,10 @@ load_dotenv()
 app = Flask(__name__)
 
 from flask_cors import CORS
+
 CORS(app, supports_credentials=True, origins=[
-    "https://research-paper-frontend-1.onrender.com"  # replace with your actual frontend Render URL
-])     
+    "http://localhost:3000",  # React frontend (local)
+])
 
 # Secret key for Flask cookie-based sessions
 app.secret_key = os.environ.get('SECRET_KEY', 'PuDhFAut9DtJz7_9X2tVABtND40INHBKDLtNNcjhAE0')
@@ -64,7 +65,9 @@ app.config.update(
 ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
-    "http://192.168.1.46:3000"
+    "http://192.168.1.46:3000",
+    "https://research-paper-frontend-1.onrender.com",  # replace with your actual frontend Render URL
+    # "https://research-paper-2.onrender.com"  # deployed frontend (Render)
 ]
 
 # CORS - Fixed configuration

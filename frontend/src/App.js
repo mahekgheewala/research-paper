@@ -11,7 +11,9 @@ import QuestionForm from './components/QuestionForm';
 import AnswerDisplay from './components/AnswerDisplay';
 
 // API Configuration - Using environment variables
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://research-paper-2.onrender.com/api';
+// In React
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:5000';
+
 const MAX_RESULTS = parseInt(process.env.REACT_APP_MAX_PAPERS) || 8;
 const REQUEST_TIMEOUT = parseInt(process.env.REACT_APP_REQUEST_TIMEOUT) || 30000;
 const DEBUG_MODE = process.env.REACT_APP_DEBUG === 'true';
