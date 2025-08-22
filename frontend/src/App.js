@@ -12,7 +12,16 @@ import AnswerDisplay from './components/AnswerDisplay';
 
 // API Configuration - Using environment variables
 // In React
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:5000';
+// const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:5000';
+
+const API_BASE_URL = process.env.REACT_APP_API_URL;
+
+async function getData() {
+  const res = await fetch(`${API_BASE_URL}/data`); 
+  const json = await res.json();
+  console.log(json);
+}
+
 
 const MAX_RESULTS = parseInt(process.env.REACT_APP_MAX_PAPERS) || 8;
 const REQUEST_TIMEOUT = parseInt(process.env.REACT_APP_REQUEST_TIMEOUT) || 30000;
