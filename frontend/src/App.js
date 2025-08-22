@@ -12,14 +12,19 @@ import AnswerDisplay from './components/AnswerDisplay';
 
 // API Configuration - Using environment variables
 // In React
-const API_BASE_URL ='http://127.0.0.1:5000';
-
-// const API_BASE_URL = process.env.REACT_APP_API_URL;
+const API_BASE_URL = process.env.REACT_APP_API_URL;
 
 async function getData() {
-  const res = await fetch(`${API_BASE_URL}/data`); 
-  const json = await res.json();
-  console.log(json);
+  try {
+    const res = await fetch(`${API_BASE_URL}/data`, {
+      credentials: "include",  // ✅ important if using sessions/cookies
+    });
+    if (!res.ok) throw new Error(`Error: ${res.status}`);
+    const json = await res.json();
+    console.log(json);
+  } catch (err) {
+    console.error("Fetch error:", err);
+  }
 }
 
 
