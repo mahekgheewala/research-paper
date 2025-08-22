@@ -38,17 +38,18 @@ from langchain.prompts import PromptTemplate
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
+from flask_cors import CORS
+import os
+
 # -------------------------------------------------
 # Load env & create app
 # -------------------------------------------------
 load_dotenv()
 app = Flask(__name__)
 
-from flask_cors import CORS
+allowed_origins = os.getenv("ALLOWED_ORIGINS", "").split(",")
 
-CORS(app, supports_credentials=True, origins=[
-    "http://localhost:3000",  # React frontend (local)
-])
+CORS(app, supports_credentials=True, origins=allowed_origins)
 
 # Secret key for Flask cookie-based sessions
 app.secret_key = os.environ.get('SECRET_KEY', 'PuDhFAut9DtJz7_9X2tVABtND40INHBKDLtNNcjhAE0')
@@ -525,6 +526,10 @@ def ensure_session():
 # -------------------------------------------------
 # Routes
 # -------------------------------------------------
+@app.route("/api/data")
+def get_data():
+    return {"message": "Hello from Flask backend on Render!"}
+
 @app.route('/api/health', methods=['GET'])
 def health():
     return jsonify({
